@@ -1,1 +1,1 @@
-API_URL="https://poligon.aidevs.pl/verify"
+API_URL = "https://poligon.aidevs.pl/verify"
